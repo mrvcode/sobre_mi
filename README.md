@@ -1,34 +1,55 @@
-# Miguel Rubio Villena
+# Miguel Rubio Villena 🛡️
+### Junior Cybersecurity Analyst | Threat Detection | Blue Team | DAW
 
-## Sobre mí
+¡Hola! Soy un apasionado de la ciberseguridad enfocado en operaciones defensivas (**Blue Team**) y **SecOps**. Mi perfil combina la base técnica de un **Desarrollador de Aplicaciones Web (DAW)** con la especialización analítica de un **Máster en Ciberseguridad**.
 
-Desarrollador web en constante aprendizaje y apasionado por la tecnología. Exploro tanto el mundo del **front-end** como el **back-end**, con un interés especial en **ciberseguridad**. Me encanta aprender cosas nuevas y compartir mis conocimientos con otros.
+Actualmente, centro mis esfuerzos en la **Detección de Amenazas** mediante el uso de SIEM (Splunk), el mapeo de tácticas con **MITRE ATT&CK** y la automatización de procesos con **Python**.
 
-## Intereses
+---
 
-*   Desarrollo web **front-end** y **back-end**
-*   Lenguajes de programación: **JavaScript**, **Python**, **PHP**
-*   Ciberseguridad
-*   Inteligencia artificial y aprendizaje automático
+## 🛠️ Tecnologías y Herramientas
 
-## Proyectos
+- **Ciberseguridad:** MITRE ATT&CK, SIEM (Splunk Enterprise & ES), Análisis Forense, Hardening de Sistemas, Wireshark, Nmap.
+- **Desarrollo & Scripting:** Python (Automatización), SQL, PHP, Bash.
+- **Networking:** Configuración Cisco (ACLs, Switching), Protocolos TCP/IP.
+- **Web:** WordPress Hardening, Seguridad en Aplicaciones Web (OWASP Top 10).
 
-*   MakeaDJ
-    Creando sets únicos y llenos de energía, explora mi música y descubre nuevos sonidos en https://makeadj.netlify.app/.
+---
 
-*   CAFAT
-    Un espacio diseñado por Julia para mejorar la calidad de vida de personas con movilidad reducida, descubre sus servicios y adaptaciones en https://cafat.netlify.app/.
+## 🚀 Proyectos Destacados
 
-*   RCHmobiliario
-    Con más de 25 años de experiencia, ofrece soluciones de mobiliario para la salud de alta calidad, descubre su catálogo y proyectos en https://rchmobiliario.netlify.app/.
+### 🛡️ [Cyber-Lab] Simulación de Operaciones Blue Team
+*Proyecto de simulación práctica intensiva para la detección de ataques.*
+- Implementación de **Splunk** para la ingesta y normalización de logs.
+- Creación de reglas de correlación y **Dashboards** personalizados para monitorización de amenazas.
+- Aplicación de metodologías de **Threat Hunting** basadas en TTPs de MITRE.
 
-## Aprendiendo y compartiendo
+### 🌐 Desarrollo Web Seguro
+- **CAFAT & RCHmobiliario:** Implementación de sitios web estáticos de alta disponibilidad y rendimiento utilizando Netlify.
+- **WordPress Hardening:** Proyectos de administración y bastionado de CMS contra vulnerabilidades comunes.
 
-Actualmente me encuentro ampliando mis conocimientos a través de cursos y proyectos en **JavaScript**, **Python** y **PHP**. Estoy abierto a colaborar y compartir mis experiencias con otros desarrolladores.
+---
 
-## Conectemos
+## 🎓 Formación y Certificaciones Clave
 
-Puedes contactarme a través de:
+- **Máster Profesional en Ciberseguridad** (MEDAC) - *En curso (Oct 2025)*
+- **Técnico Superior en DAW** (MEDAC) - *Mención 10/10 en Sistemas y Programación*
+- **Splunk:** Currículum Oficial Completo (Security Operations, SPL, Admin).
+- **AttackIQ:** Foundations of Operationalizing MITRE ATT&CK.
+- **IBM:** Cybersecurity Fundamentals.
+- **ISC²:** Certified in Cybersecurity (CC) - *Temario completado.*
+- **Hack The Box:** Junior Cybersecurity Associate Path - *En curso.*
 
-*   **LinkedIn:** [https://www.linkedin.com/in/miguel-rubio-villena-7aa02313a/](https://www.linkedin.com/in/miguel-rubio-villena-7aa02313a/)
+---
 
+## 🌍 Idiomas
+- **Inglés:** Fluidez Conversacional Funcional (Respaldada por 3 años de residencia e inmersión en Inglaterra).
+
+---
+
+## 📫 Conectemos
+
+Si estás interesado en la detección de amenazas, SecOps o simplemente quieres charlar sobre ciberseguridad, ¡no dudes en contactarme!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel%20Rubio-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/miguel-rubio-7aa02313a/)
+[![Email](https://img.shields.io/badge/Email-miguelrubiovillena@gmail.com-red?style=flat-square&logo=gmail)](mailto:miguelrubiovillena@gmail.com)
