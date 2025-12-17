@@ -1,4 +1,4 @@
-# Miguel Rubio Villena 🛡️
+# Miguel Rubio 🛡️
 ### Junior Cybersecurity Analyst | Threat Detection | Blue Team | DAW
 
 ¡Hola! Soy un apasionado de la ciberseguridad enfocado en operaciones defensivas (**Blue Team**) y **SecOps**. Mi perfil combina la base técnica de un **Desarrollador de Aplicaciones Web (DAW)** con la especialización analítica de un **Máster en Ciberseguridad**.
